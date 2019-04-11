@@ -1,0 +1,3 @@
+feescategoryid,title,PracticeId,createdby,createdDate,changedby,changeddate,deletedby,isdeleted,isactive,CreatedUserType,ChangedUserType,defaultcat
+88,AZ- TECH MEDICARE FEE SCHEDULE 2015,77,4,12-10-2015,3,12-09-2016,0,0,1,Users,Users,0
+110,AHCCCS CareFirst - Double Billed,77,3,03-10-2017,0,03-10-2017,0,0,1,Users,,0
